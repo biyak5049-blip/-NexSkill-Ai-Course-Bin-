@@ -24,3 +24,31 @@ for x in propertyinfo:
 st = propertyinfo
 print(st[2:4:6])
 
+number = int(input('enter a number:'))
+if number > 0:
+ print(f'{number}is a postive:')
+ print('a statement outside the if statement:')
+print('next run---')
+print(int(input('enter a number')))
+
+#python--if--else statement
+
+if number > 0:
+ print('postive number')
+
+else:
+  print('not a postive number')
+
+  print('this statement is always executed')
+  #python if--elif--else statement
+  if number > 0:
+    print('postive number')
+elif number < 0:
+print('negative number')
+
+print('this statement is always executed')
+print('run number---') 
+
+  
+
+
