@@ -8,7 +8,7 @@
 
 <p>
   <a href="https://github.com/biyak5049-blip/-NexSkill-Ai-Course-Bin">
-    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/>
+    
   </a>
   <a href="https://www.linkedin.com/in/shazia-kareem-886606418">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
